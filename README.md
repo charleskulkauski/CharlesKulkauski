@@ -1,6 +1,6 @@
 ## Sou Charles, estudande de tecnologia!
 
-Finalizando a faculdade de análise e desenvolvimento de sistemas, focado em aprimorar meu aprendizado,
+Finalizando a faculdade de análise e desenvolvimento de sistemas, focado em aprimorar meu aprendizado e
 em me divertir programando. Atualmente trabalhando na Accenture.
 
 <div style="display: inline_block"><br>
