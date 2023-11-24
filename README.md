@@ -1,9 +1,8 @@
-## Sou Charles, estudande de tecnologia!
+## Meu nome é Charles e sou estudande de Tecnologia!
 
-Finalizando a faculdade de Análise e Desenvolvimento de Sistemas na SPTech School, focado em aprimorar meu aprendizado e me divertir programando. Atualmente trabalhando na Accenture.
+Atualmente estou finalizando a faculdade de Análise e Desenvolvimento de Sistemas na SPTech School, estou focado em aprimorar meu aprendizado e me divertir programando. Presentemente trabalhando na Accenture.
 
 <div style="display: inline_block"><br>
- 
  <!-- <img align="center" alt="Charles-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
   <img align="center" alt="Charles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Charles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
