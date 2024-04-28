@@ -1,6 +1,6 @@
-## Meu nome é Charles e sou estudande de Tecnologia!
+## Olá, meu nome é Charles!
 
-Atualmente estou finalizando a faculdade de Análise e Desenvolvimento de Sistemas na SPTech School, estou focado em aprimorar meu aprendizado e me divertir programando. Presentemente trabalhando na Accenture.
+Graduado em Análise e Desenvolvimento de Sistemas na SPTech School, atualmente focado em aprimorar meu aprendizado e me divertir programando. Presentemente trabalhando.
 
 <div style="display: inline_block"><br>
  <!-- <img align="center" alt="Charles-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
