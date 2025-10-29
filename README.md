@@ -1,3 +1,4 @@
+
 # 👋 Olá, eu sou o Charles Kulkauski
 
 Sou graduado em **Análise e Desenvolvimento de Sistemas (SPTech School)** e trabalho com **automação de processos e desenvolvimento de software**.  
@@ -31,22 +32,22 @@ Atualmente, estou focado em **Python**, construindo projetos que unem **engenhar
 ---
 
 ### 🚀 Projetos e Estudos Recentes
-- 🔹 **Automação SAS CI → Python (pdfplumber)** – refatoração e otimização de um sistema legado complexo.  
-- 🔹 **Tech Challenge - IA aplicada à saúde** – modelagem e validação de modelos preditivos (KNN, SVM, PCA, GridSearchCV).  
-- 🔹 **Gerenciador de Tarefas com PySide6** – interface desktop moderna e responsiva com foco em UX.  
-- 🔹 **Análises com Pandas** – criação de pipelines para limpeza, validação e tratamento de dados.
+
+- **Automação SAS CI → Python (pdfplumber)** – refatoração e otimização de um sistema legado complexo.  
+- **Tech Challenge - IA aplicada à saúde** – modelagem e validação de modelos preditivos (KNN, SVM, PCA, GridSearchCV).  
+- **Gerenciador de Tarefas com PySide6** – interface desktop moderna e responsiva com foco em UX.  
+- **Análises com Pandas** – criação de pipelines para limpeza, validação e tratamento de dados.
 
 ---
 
-### 🌱 Em constante evolução
-Atualmente estudando:
+### 🌱 Em constante evolução, estudos
+
 - **Pós-graduação em Inteligência Artificial**
 - **Inteligência Artificial**
 - **Desenvolvimento e suporte em automações**
 - **Inglês**
 
 ---
-
 
 ### 📫 Onde me encontrar
 <div>
